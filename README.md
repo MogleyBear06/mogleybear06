@@ -1,8 +1,9 @@
 ## Nicholas James Ortiz  
  
-![229A5166](https://user-images.githubusercontent.com/44917761/234674378-576c15be-edbe-4265-b416-0eba9b43b165.JPG)
+<img src="
+![229A5166](https://user-images.githubusercontent.com/44917761/234674378-576c15be-edbe-4265-b416-0eba9b43b165.JPG)" align="left" height="1120" width="1,680" />  
 
-### My name's Nick and I'm a business consultant pursuing a full-stack web development certificate from The University of Texas at Austin.  
+### Hi There! My name's Nick and I'm a business consultant pursuing a full-stack web development certificate from The University of Texas at Austin.  
   
   
 
@@ -19,9 +20,7 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
   
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -38,7 +37,6 @@
 - ⚡ Fun fact: within a 4 year period I've competed in 18 triathlons 🙂  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -59,7 +57,6 @@
 </div>  
 
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
