@@ -1,7 +1,6 @@
 ## Nicholas James Ortiz  
   
-![229A5166](https://user-images.githubusercontent.com/44917761/234672739-4b24fe1d-2ebc-4fc7-8c7e-fc83be6f7a1a.JPG)
-
+![229A5166](https://user-images.githubusercontent.com/44917761/234673775-148334f7-41f6-4b6e-a771-75e334dccf39.JPG)
 
 ### My name's Nick and I'm a business consultant pursuing a full-stack web development certificate from The University of Texas at Austin.  
   
