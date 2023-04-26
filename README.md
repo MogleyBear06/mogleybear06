@@ -1,4 +1,4 @@
-## Nicholas Ortiz  
+## Nicholas James Ortiz  
   
 ![229A5166](https://user-images.githubusercontent.com/44917761/234672739-4b24fe1d-2ebc-4fc7-8c7e-fc83be6f7a1a.JPG)
 
