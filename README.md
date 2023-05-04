@@ -69,10 +69,8 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=mogleybear06&&style=flat-square)  
-  
-
 <br/>  
 
-
 <br />
+  
+![Profile views counter](https://komarev.com/ghpvc/?username=mogleybear06&&style=flat-square) 
