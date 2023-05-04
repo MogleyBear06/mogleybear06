@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning Node.js, OOP, Express, SQL, ORM, and MVC.  
   
 
-- ❓ Ask me about anything related to web development technologies  
+- ❓ Ask me about anything related to web development technologies.  
   
   
 - ⚡ Fun fact: within a 4 year period I've competed in 18 triathlons 🙂  
