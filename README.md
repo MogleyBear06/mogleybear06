@@ -1,12 +1,8 @@
   
 ![229A5166](https://user-images.githubusercontent.com/44917761/234674378-576c15be-edbe-4265-b416-0eba9b43b165.JPG)
 
-### Hi There! My name's Nick and I'm a business consultant pursuing a full-stack web development certificate from The University of Texas at Austin.  
+## Hi There! My name's Nick and I'm a business consultant pursuing a full-stack web development certificate from The University of Texas at Austin.  
   
-  
-
-
-
 ### Get in touch!  
 <a href="https://github.com/MogleyBear06" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -23,15 +19,15 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working working on getting my full-stack web development certification.  
+- 🔭 I’m currently working on my full-stack web development certification.  
   
 
-- 🌱 I’m currently learning Node.js, OOP, Express, SQL and ORM.  
+- 🌱 I’m currently learning Node.js, OOP, Express, SQL, ORM, and MVC.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to web development technologies  
   
-
+  
 - ⚡ Fun fact: within a 4 year period I've competed in 18 triathlons 🙂  
 
 <br/>  
