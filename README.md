@@ -3,7 +3,7 @@
 
 ### Hi There! My name's Nick and I'm a business consultant pursuing a full-stack web development certificate from The University of Texas at Austin.  
   
-### Lets connect!  
+## Lets connect!  
 <a href="https://github.com/MogleyBear06" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
