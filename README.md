@@ -15,23 +15,7 @@
 </a>  
   
 <br/>  
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on my full-stack web development certification.  
-  
-
-- 🌱 I’m currently learning Node.js, OOP, Express, SQL, ORM, and MVC.  
-  
-
-- ❓ Ask me about anything related to web development technologies.  
-  
-  
-- ⚡ Fun fact: within a 4 year period I've competed in 18 triathlons 🙂  
-
-<br/>  
-
+ 
 ## Languages and Tools  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
